@@ -1,0 +1,203 @@
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\appsettings.json
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\Properties\TanakhStructure.json
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.exe
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.deps.json
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.runtimeconfig.json
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.runtimeconfig.dev.json
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.pdb
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.csproj.AssemblyReference.cache
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.AssemblyInfoInputs.cache
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.AssemblyInfo.cs
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\Tanakh.StaticWebAssets.Manifest.cache
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\scopedcss\bundle\Tanakh.styles.css
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.RazorTargetAssemblyInfo.cache
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.csproj.CopyComplete
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\ref\Tanakh.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.pdb
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.genruntimeconfig.cache
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\Properties\TanakhData.json
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\ServiceStack.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\ServiceStack.Client.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\ServiceStack.Common.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\ServiceStack.Interfaces.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\ServiceStack.Text.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Private.ServiceModel.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\cs\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\de\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\es\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\fr\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\it\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\ja\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\ko\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\pl\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\ru\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\tr\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.StaticWebAssets.xml
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\Tanakh.StaticWebAssets.Pack.cache
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\msbuild.Tanakh.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\msbuild.build.Tanakh.props
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Tanakh.props
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Tanakh.props
+C:\Users\Tomer\Desktop\Tanach in c#\Tanakh\obj\Debug\net5.0\refint\Tanakh.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\appsettings.json
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\Properties\TanakhData.json
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\Properties\TanakhStructure.json
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.exe
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.deps.json
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.runtimeconfig.json
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.runtimeconfig.dev.json
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.pdb
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\ServiceStack.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\ServiceStack.Client.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\ServiceStack.Common.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\ServiceStack.Interfaces.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\ServiceStack.Text.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Private.ServiceModel.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\cs\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\de\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\es\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\fr\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\it\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\ja\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\ko\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\pl\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\ru\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\tr\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.csproj.AssemblyReference.cache
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.AssemblyInfoInputs.cache
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.AssemblyInfo.cs
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.RazorTargetAssemblyInfo.cache
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\scopedcss\bundle\Tanakh.styles.css
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\Tanakh.StaticWebAssets.Manifest.cache
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\Tanakh.StaticWebAssets.Pack.cache
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\msbuild.Tanakh.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\msbuild.build.Tanakh.props
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Tanakh.props
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Tanakh.props
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.csproj.CopyComplete
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\refint\Tanakh.dll
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.pdb
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.genruntimeconfig.cache
+C:\Users\Tomer\Desktop\תומר\פרוייקים אישיים\Tanach in c#\Tanakh\obj\Debug\net5.0\ref\Tanakh.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\appsettings.json
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\Properties\TanakhData.json
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\Properties\TanakhStructure.json
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.exe
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.deps.json
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.runtimeconfig.json
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.runtimeconfig.dev.json
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\Tanakh.pdb
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\ServiceStack.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\ServiceStack.Client.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\ServiceStack.Common.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\ServiceStack.Interfaces.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\ServiceStack.Text.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Private.ServiceModel.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\cs\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\de\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\es\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\fr\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\it\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\ja\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\ko\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\pl\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\ru\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\tr\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.csproj.AssemblyReference.cache
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.AssemblyInfoInputs.cache
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.AssemblyInfo.cs
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.RazorTargetAssemblyInfo.cache
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\scopedcss\bundle\Tanakh.styles.css
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\Tanakh.StaticWebAssets.Manifest.cache
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\Tanakh.StaticWebAssets.Pack.cache
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\msbuild.Tanakh.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\msbuild.build.Tanakh.props
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Tanakh.props
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Tanakh.props
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.csproj.CopyComplete
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\refint\Tanakh.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.pdb
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\Tanakh.genruntimeconfig.cache
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\obj\Debug\net5.0\ref\Tanakh.dll
+C:\Users\Tomer\Desktop\tomer\myProjects\Tanach in c#\Tanakh\bin\Debug\net5.0\Properties\CredentialsManager.json
